@@ -45,6 +45,6 @@ chmod 755 CheatInstaller.sh CheatAddUser.sh
 
 ## Credits
 **PROUST Bastien**
-*Copyright 2019-2021 Bbastpro. Tous droits réservés.*
-*Toute reproduction, diffusion, partage, distribution,*
-*commercialisation sans autorisation explicite est interdite.*
+
+*Copyright 2021-2021 Bbastpro.*
+*All rights reserved. Any reproduction, dissemination, sharing, distribution, commercialization without explicit permission is prohibited.*
