@@ -12,6 +12,7 @@ Writed in bash.
 >The realization of this script is part of my studies
 >and is also part of a desire to create many scripts
 >automating tasks or preparations of machines
+
 **Cheat is an interactive cheatsheets available at : https://github.com/cheat/cheat.git**
 ## Guide
 ### Utilisation
